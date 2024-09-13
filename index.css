@@ -18,3 +18,18 @@ hr{
     width: 200px;
     height: 200px;
 }
+
+.logo{
+    width: 45px;
+    height: 45px;
+}
+
+.logo1{
+    margin-left: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+p{
+    font-size: 20px;
+}
